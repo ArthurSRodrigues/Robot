@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573337716 source:e:\documentos\cod\robot\main.cpp
+	<iostream>
+	"robot.h"
+
+1573333298 e:\documentos\cod\robot\include\robot.h
+	<iostream>
+
+1573337716 source:e:\documentos\cod\robot\src\robot.cpp
+	"robot.h"
+	<iostream>
+

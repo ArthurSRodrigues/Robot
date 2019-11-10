@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1573345164 source:e:\documentos\cod\negoney\src\negoney.cpp
+	"negoney.h"
+	<iostream>
+	<string>
+
+1573344995 e:\documentos\cod\negoney\include\negoney.h
+	"robot.h"
+	<iostream>
+	<string>
+
+1573333298 e:\documentos\cod\negoney\include\robot.h
+	<iostream>
+
+1573345031 source:e:\documentos\cod\negoney\main.cpp
+	<iostream>
+	"negoney.h"
+	"robot.h"
+
